@@ -1,0 +1,31 @@
+{
+  "Token": "",
+  "TriggerStickers": [
+    "чачлык",
+    "евстегней"
+  ],
+  "Answers": [
+    "Я что ли",
+    "ну Я",
+    18791,
+    14234,
+    14213,
+    13849,
+    13871,
+    18788,
+    18572,
+    6140
+  ],
+  "TriggerAddStickers": "!+",
+  "TriggerIgnore": "!игнор",
+  "IgnoreList": [
+    2000001175,
+    2000001176,
+    2000001037
+  ],
+  "TimeWait": 15,
+  "TriggerDelete": "ой",
+  "TriggerTranslate": "рас",
+  "TriggerContest": "роз",
+  "TimeOutDel": 5
+}
